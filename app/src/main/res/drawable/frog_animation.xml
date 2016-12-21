@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/frog01" android:duration="50"></item>
+    <item android:drawable="@drawable/frog02" android:duration="50"></item>
+    <item android:drawable="@drawable/frog03" android:duration="50"></item>
+    <item android:drawable="@drawable/frog04" android:duration="50"></item>
+    <item android:drawable="@drawable/frog05" android:duration="50"></item>
+    <item android:drawable="@drawable/frog06" android:duration="50"></item>
+    <item android:drawable="@drawable/frog07" android:duration="50"></item>
+    <item android:drawable="@drawable/frog08" android:duration="50"></item>
+    <item android:drawable="@drawable/frog09" android:duration="50"></item>
+    <item android:drawable="@drawable/frog10" android:duration="50"></item>
+    <item android:drawable="@drawable/frog11" android:duration="50"></item>
+    <item android:drawable="@drawable/frog12" android:duration="50"></item>
+    <item android:drawable="@drawable/frog13" android:duration="50"></item>
+    <item android:drawable="@drawable/frog14" android:duration="50"></item>
+    <item android:drawable="@drawable/frog15" android:duration="50"></item>
+    <item android:drawable="@drawable/frog16" android:duration="50"></item>
+    <item android:drawable="@drawable/frog17" android:duration="50"></item>
+    <item android:drawable="@drawable/frog18" android:duration="50"></item>
+    <item android:drawable="@drawable/frog19" android:duration="50"></item>
+    <item android:drawable="@drawable/frog20" android:duration="50"></item>
+    <item android:drawable="@drawable/frog21" android:duration="50"></item>
+    <item android:drawable="@drawable/frog22" android:duration="50"></item>
+    <item android:drawable="@drawable/frog23" android:duration="50"></item>
+    <item android:drawable="@drawable/frog24" android:duration="50"></item>
+    <item android:drawable="@drawable/frog25" android:duration="50"></item>
+    <item android:drawable="@drawable/frog26" android:duration="50"></item>
+    <item android:drawable="@drawable/frog27" android:duration="50"></item>
+    <item android:drawable="@drawable/frog28" android:duration="50"></item>
+    <item android:drawable="@drawable/frog29" android:duration="50"></item>
+    <item android:drawable="@drawable/frog30" android:duration="50"></item>
+</animation-list>

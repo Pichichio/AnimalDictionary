@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/mammal00" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal01" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal02" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal03" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal04" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal05" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal06" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal07" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal08" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal09" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal10" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal11" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal12" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal13" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal14" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal15" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal16" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal17" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal18" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal19" android:duration="150"></item>
+    <item android:drawable="@drawable/mammal20" android:duration="150"></item>
+</animation-list>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_mammal_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/mammal"
+    tools:context="com.example.doantruong.animatejava.MammalDetails">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="What Makes a Mammal ?"
+        android:textColor="#914b25"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/animationMammal"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_below="@+id/txtTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="15dp"
+        android:onClick="" />
+
+    <TextView
+        android:id="@+id/character1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/animationMammal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="have hair of fur"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/character2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/character1"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:text="give birth to live young"
+        android:textColor="#7d2a02"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/character3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/character2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="mammal mothers nurse their young with milk "
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/character4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/character3"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:text="have lungs and need air to breathe"
+        android:textColor="#02989d"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/character5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/character4"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="mammals that live on land have 4 legs, on ears that stick out"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/character6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/character5"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:text="warm-blooded"
+        android:textColor="#9d0f02"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+</RelativeLayout>

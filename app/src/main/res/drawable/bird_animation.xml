@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/eagle00" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle01" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle02" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle03" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle04" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle05" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle06" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle07" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle08" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle09" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle10" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle11" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle12" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle13" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle14" android:duration="120"></item>
+    <item android:drawable="@drawable/eagle15" android:duration="120"></item>
+
+    <!--<item android:drawable="@drawable/bird17" android:duration="50"></item>-->
+    <!--<item android:drawable="@drawable/bird18" android:duration="50"></item>-->
+</animation-list>

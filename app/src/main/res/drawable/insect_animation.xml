@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/dragonfly00" android:duration="150"></item>
+    <item android:drawable="@drawable/dragonfly01" android:duration="150"></item>
+    <item android:drawable="@drawable/dragonfly02" android:duration="150"></item>
+    <item android:drawable="@drawable/dragonfly03" android:duration="150"></item>
+    <item android:drawable="@drawable/dragonfly04" android:duration="150"></item>
+    <item android:drawable="@drawable/dragonfly05" android:duration="150"></item>
+    <item android:drawable="@drawable/dragonfly06" android:duration="150"></item>
+    <item android:drawable="@drawable/dragonfly07" android:duration="150"></item>
+</animation-list>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/amphabian00" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian01" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian02" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian03" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian04" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian05" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian06" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian07" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian08" android:duration="150"></item>
+    <item android:drawable="@drawable/amphabian09" android:duration="150"></item>
+</animation-list>

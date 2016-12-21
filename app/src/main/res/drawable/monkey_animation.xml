@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/lion1" android:duration="80"></item>
+    <item android:drawable="@drawable/lion2" android:duration="80"></item>
+    <item android:drawable="@drawable/lion3" android:duration="80"></item>
+    <item android:drawable="@drawable/lion4" android:duration="80"></item>
+    <item android:drawable="@drawable/lion5" android:duration="80"></item>
+    <item android:drawable="@drawable/lion6" android:duration="80"></item>
+    <item android:drawable="@drawable/lion7" android:duration="80"></item>
+    <item android:drawable="@drawable/lion8" android:duration="80"></item>
+    <item android:drawable="@drawable/lion9" android:duration="80"></item>
+    <item android:drawable="@drawable/lion10" android:duration="80"></item>
+    <item android:drawable="@drawable/lion11" android:duration="80"></item>
+    <item android:drawable="@drawable/lion12" android:duration="80"></item>
+</animation-list>

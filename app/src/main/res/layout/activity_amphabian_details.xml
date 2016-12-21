@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_amphabian_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/amphabian"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.doantruong.animatejava.AmphabianDetails">
+
+    <TextView
+        android:id="@+id/txtTitleAmphabian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="What Makes an Amphabian ?"
+        android:textColor="#914b25"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/animationAmphabian"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_below="@+id/txtTitleAmphabian"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="15dp"
+        android:onClick="" />
+
+    <TextView
+        android:id="@+id/characterAmphabian1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/animationAmphabian"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="live on land and in water"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/characterAmphabian2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/characterAmphabian1"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:text="webbed feet"
+        android:textColor="#299d02"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/characterAmphabian3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/characterAmphabian2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="breathe with lung and gills "
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/characterAmphabian4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/characterAmphabian3"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:text="cold-blooded"
+        android:textColor="#0f929d"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/characterAmphabian5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/characterAmphabian4"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="moist smooth skin (no hair or fur)"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/characterAmphabian6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/characterAmphabian5"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:text="lay many eggs"
+        android:textColor="#981e8e"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+</RelativeLayout>
